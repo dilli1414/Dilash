@@ -1,0 +1,6 @@
+{
+  "name": "Bordeaux — Dilash Muhammed Voice Assistant",
+  "description": "Multilingual voice assistant for Dilash Muhammed, fluent in English, French, and Russian with real-time voice conversations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
